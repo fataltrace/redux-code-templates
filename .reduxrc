@@ -3,5 +3,7 @@
   "testBase": "tests",
   "smartPath": "containers",
   "dumbPath": "components",
+  "reducerPath": "reducers",
+  "actionPath": "actions",
   "fileCasing": "pascal"
 }
