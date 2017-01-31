@@ -1,0 +1,23 @@
+{
+  "name": "redux-code-templates",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "dumb": "redux g dumb DumbExample",
+    "smart": "redux g smart SmartExample"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fataltrace/redux-code-templates.git"
+  },
+  "author": "LeX?!",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fataltrace/redux-code-templates/issues"
+  },
+  "homepage": "https://github.com/fataltrace/redux-code-templates#readme",
+  "dependencies": {
+    "redux-cli": "^1.9.0"
+  }
+}
