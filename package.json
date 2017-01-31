@@ -5,7 +5,8 @@
   "main": "",
   "scripts": {
     "dumb": "redux g dumb DumbExample",
-    "smart": "redux g smart SmartExample"
+    "smart": "redux g smart SmartExample",
+    "reducer": "redux g reducer entity"
   },
   "repository": {
     "type": "git",
