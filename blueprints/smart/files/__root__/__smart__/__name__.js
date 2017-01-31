@@ -7,6 +7,8 @@ class <%= pascalEntityName %> extends Component {
   }
 
   render () {
+    const {} = this.props
+    
     return (
       <div></div>
     )
